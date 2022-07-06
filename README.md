@@ -1,10 +1,10 @@
 1. import the file advance.sql into your mysql database
 2. update your database connection files in:-
 
-	a). admin/core/config.php
-	b). core/config/config.php
-	c). 0cron_jobs/email_alerts_cron.php
-	d). 0cron_jobs/ pro_users_cron_job.php
+	a). admin/core/config.php.
+	b). core/config/config.php.
+	c). 0cron_jobs/email_alerts_cron.php.
+	d). 0cron_jobs/ pro_users_cron_job.php.
 
 
 3. use the following link to access admin panel
